@@ -1,0 +1,15 @@
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\StringExample\StringExample\bin\Debug\net6.0\StringExample.exe
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\StringExample\StringExample\bin\Debug\net6.0\StringExample.deps.json
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\StringExample\StringExample\bin\Debug\net6.0\StringExample.runtimeconfig.json
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\StringExample\StringExample\bin\Debug\net6.0\StringExample.dll
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\StringExample\StringExample\bin\Debug\net6.0\StringExample.pdb
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\StringExample\StringExample\obj\Debug\net6.0\StringExample.csproj.AssemblyReference.cache
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\StringExample\StringExample\obj\Debug\net6.0\StringExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\StringExample\StringExample\obj\Debug\net6.0\StringExample.AssemblyInfoInputs.cache
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\StringExample\StringExample\obj\Debug\net6.0\StringExample.AssemblyInfo.cs
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\StringExample\StringExample\obj\Debug\net6.0\StringExample.csproj.CoreCompileInputs.cache
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\StringExample\StringExample\obj\Debug\net6.0\StringExample.dll
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\StringExample\StringExample\obj\Debug\net6.0\refint\StringExample.dll
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\StringExample\StringExample\obj\Debug\net6.0\StringExample.pdb
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\StringExample\StringExample\obj\Debug\net6.0\StringExample.genruntimeconfig.cache
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\StringExample\StringExample\obj\Debug\net6.0\ref\StringExample.dll

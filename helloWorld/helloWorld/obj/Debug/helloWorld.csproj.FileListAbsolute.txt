@@ -1,0 +1,8 @@
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\helloWorld\helloWorld\obj\Debug\helloWorld.csproj.AssemblyReference.cache
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\helloWorld\helloWorld\obj\Debug\helloWorld.csproj.SuggestedBindingRedirects.cache
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\helloWorld\helloWorld\obj\Debug\helloWorld.csproj.CoreCompileInputs.cache
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\helloWorld\helloWorld\bin\Debug\helloWorld.exe.config
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\helloWorld\helloWorld\bin\Debug\helloWorld.exe
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\helloWorld\helloWorld\bin\Debug\helloWorld.pdb
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\helloWorld\helloWorld\obj\Debug\helloWorld.exe
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\helloWorld\helloWorld\obj\Debug\helloWorld.pdb

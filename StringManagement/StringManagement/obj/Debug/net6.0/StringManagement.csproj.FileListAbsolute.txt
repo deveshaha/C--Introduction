@@ -1,0 +1,15 @@
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\StringManagement\StringManagement\obj\Debug\net6.0\StringManagement.csproj.AssemblyReference.cache
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\StringManagement\StringManagement\obj\Debug\net6.0\StringManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\StringManagement\StringManagement\obj\Debug\net6.0\StringManagement.AssemblyInfoInputs.cache
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\StringManagement\StringManagement\obj\Debug\net6.0\StringManagement.AssemblyInfo.cs
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\StringManagement\StringManagement\obj\Debug\net6.0\StringManagement.csproj.CoreCompileInputs.cache
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\StringManagement\StringManagement\bin\Debug\net6.0\StringManagement.exe
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\StringManagement\StringManagement\bin\Debug\net6.0\StringManagement.deps.json
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\StringManagement\StringManagement\bin\Debug\net6.0\StringManagement.runtimeconfig.json
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\StringManagement\StringManagement\bin\Debug\net6.0\StringManagement.dll
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\StringManagement\StringManagement\bin\Debug\net6.0\StringManagement.pdb
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\StringManagement\StringManagement\obj\Debug\net6.0\StringManagement.dll
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\StringManagement\StringManagement\obj\Debug\net6.0\refint\StringManagement.dll
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\StringManagement\StringManagement\obj\Debug\net6.0\StringManagement.pdb
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\StringManagement\StringManagement\obj\Debug\net6.0\StringManagement.genruntimeconfig.cache
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\StringManagement\StringManagement\obj\Debug\net6.0\ref\StringManagement.dll

@@ -1,0 +1,15 @@
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\NumericCalculator\NumericCalculator\bin\Debug\net6.0\NumericCalculator.exe
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\NumericCalculator\NumericCalculator\bin\Debug\net6.0\NumericCalculator.deps.json
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\NumericCalculator\NumericCalculator\bin\Debug\net6.0\NumericCalculator.runtimeconfig.json
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\NumericCalculator\NumericCalculator\bin\Debug\net6.0\NumericCalculator.dll
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\NumericCalculator\NumericCalculator\bin\Debug\net6.0\NumericCalculator.pdb
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\NumericCalculator\NumericCalculator\obj\Debug\net6.0\NumericCalculator.csproj.AssemblyReference.cache
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\NumericCalculator\NumericCalculator\obj\Debug\net6.0\NumericCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\NumericCalculator\NumericCalculator\obj\Debug\net6.0\NumericCalculator.AssemblyInfoInputs.cache
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\NumericCalculator\NumericCalculator\obj\Debug\net6.0\NumericCalculator.AssemblyInfo.cs
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\NumericCalculator\NumericCalculator\obj\Debug\net6.0\NumericCalculator.csproj.CoreCompileInputs.cache
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\NumericCalculator\NumericCalculator\obj\Debug\net6.0\NumericCalculator.dll
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\NumericCalculator\NumericCalculator\obj\Debug\net6.0\refint\NumericCalculator.dll
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\NumericCalculator\NumericCalculator\obj\Debug\net6.0\NumericCalculator.pdb
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\NumericCalculator\NumericCalculator\obj\Debug\net6.0\NumericCalculator.genruntimeconfig.cache
+E:\Users\Devesh\Documents\PLATZI\C# con .NET\NumericCalculator\NumericCalculator\obj\Debug\net6.0\ref\NumericCalculator.dll
